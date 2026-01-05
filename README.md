@@ -43,7 +43,6 @@ Indexes, execution plans, scalable SQL
 - Designed for BI Engineer & Analytics roles
 
 ## 📫 Contact
-9971411350
-adyasha.acharya95@gmail.com
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: your.email@gmail.com
+- Phone no: 9971411350
+- LinkedIn: www.linkedin.com/in/adyasha-acharya-3096a5117
+- Email: adyasha.acharya95@gmail.com
